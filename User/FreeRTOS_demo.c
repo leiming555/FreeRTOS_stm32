@@ -141,7 +141,7 @@ void task3( void * pvParameters )
     uint8_t short_press_detected = 0; // 短按检测标志
     uint8_t last_key_state = 1; // 上一次按键状态
     uint8_t click_count = 0;     // 按键点击计数
-    uint32_t last_click_time = 0; // 上一次点击时间
+b    uint32_t last_click_time = 0; // 上一次点击时间
    
     while(1)
     {
