@@ -41,3 +41,4 @@
 .\objects\freertos_demo.o: .\Hardware\LED.h
 .\objects\freertos_demo.o: .\Hardware\KEY.h
 .\objects\freertos_demo.o: .\Hardware\OLED.h
+.\objects\freertos_demo.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
